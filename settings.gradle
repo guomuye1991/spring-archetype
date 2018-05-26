@@ -1,0 +1,3 @@
+rootProject.name = 'spring-archetype'
+include 'spring-webflux-archetype'
+
